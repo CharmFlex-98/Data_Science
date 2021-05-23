@@ -1,0 +1,419 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Passengerid,day_in_week
+1970-01-01 00:00:00.000000892,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,,892,Thursday
+1970-01-01 00:00:00.000000893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47.0,1,0,363272,7.0,,,893,Thursday
+1970-01-01 00:00:00.000000894,2,"Myles, Mr. Thomas Francis",male,62.0,0,0,240276,9.6875,,,894,Thursday
+1970-01-01 00:00:00.000000895,3,"Wirz, Mr. Albert",male,27.0,0,0,315154,8.6625,,,895,Thursday
+1970-01-01 00:00:00.000000896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22.0,1,1,3101298,12.2875,,,896,Thursday
+1970-01-01 00:00:00.000000897,3,"Svensson, Mr. Johan Cervin",male,14.0,0,0,7538,9.225,,,897,Thursday
+1970-01-01 00:00:00.000000898,3,"Connolly, Miss. Kate",female,30.0,0,0,330972,7.6292,,,898,Thursday
+1970-01-01 00:00:00.000000899,2,"Caldwell, Mr. Albert Francis",male,26.0,1,1,248738,29.0,,,899,Thursday
+1970-01-01 00:00:00.000000900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18.0,0,0,2657,7.2292,,C,900,Thursday
+1970-01-01 00:00:00.000000901,3,"Davies, Mr. John Samuel",male,21.0,2,0,A/4 48871,24.15,,,901,Thursday
+1970-01-01 00:00:00.000000902,3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,,902,Thursday
+1970-01-01 00:00:00.000000903,1,"Jones, Mr. Charles Cresson",male,46.0,0,0,694,26.0,,,903,Thursday
+1970-01-01 00:00:00.000000904,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23.0,1,0,21228,82.2667,B45,,904,Thursday
+1970-01-01 00:00:00.000000905,2,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,,,905,Thursday
+1970-01-01 00:00:00.000000906,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47.0,1,0,W.E.P. 5734,61.175,E31,,906,Thursday
+1970-01-01 00:00:00.000000907,2,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24.0,1,0,SC/PARIS 2167,27.7208,,C,907,Thursday
+1970-01-01 00:00:00.000000908,2,"Keane, Mr. Daniel",male,35.0,0,0,233734,12.35,,,908,Thursday
+1970-01-01 00:00:00.000000909,3,"Assaf, Mr. Gerios",male,21.0,0,0,2692,7.225,,C,909,Thursday
+1970-01-01 00:00:00.000000910,3,"Ilmakangas, Miss. Ida Livija",female,27.0,1,0,STON/O2. 3101270,7.925,,,910,Thursday
+1970-01-01 00:00:00.000000911,3,"Assaf Khalil, Mrs. Mariana (Miriam"")""",female,45.0,0,0,2696,7.225,,C,911,Thursday
+1970-01-01 00:00:00.000000912,1,"Rothschild, Mr. Martin",male,55.0,1,0,PC 17603,59.4,,C,912,Thursday
+1970-01-01 00:00:00.000000913,3,"Olsen, Master. Artur Karl",male,9.0,0,1,C 17368,3.1708,,,913,Thursday
+1970-01-01 00:00:00.000000914,1,"Flegenheim, Mrs. Alfred (Antoinette)",female,,0,0,PC 17598,31.6833,,,914,Thursday
+1970-01-01 00:00:00.000000915,1,"Williams, Mr. Richard Norris II",male,21.0,0,1,PC 17597,61.3792,,C,915,Thursday
+1970-01-01 00:00:00.000000916,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,916,Thursday
+1970-01-01 00:00:00.000000917,3,"Robins, Mr. Alexander A",male,50.0,1,0,A/5. 3337,14.5,,,917,Thursday
+1970-01-01 00:00:00.000000918,1,"Ostby, Miss. Helene Ragnhild",female,22.0,0,1,113509,61.9792,B36,C,918,Thursday
+1970-01-01 00:00:00.000000919,3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,C,919,Thursday
+1970-01-01 00:00:00.000000920,1,"Brady, Mr. John Bertram",male,41.0,0,0,113054,30.5,A21,,920,Thursday
+1970-01-01 00:00:00.000000921,3,"Samaan, Mr. Elias",male,,2,0,2662,21.6792,,C,921,Thursday
+1970-01-01 00:00:00.000000922,2,"Louch, Mr. Charles Alexander",male,50.0,1,0,SC/AH 3085,26.0,,,922,Thursday
+1970-01-01 00:00:00.000000923,2,"Jefferys, Mr. Clifford Thomas",male,24.0,2,0,C.A. 31029,31.5,,,923,Thursday
+1970-01-01 00:00:00.000000924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33.0,1,2,C.A. 2315,20.575,,,924,Thursday
+1970-01-01 00:00:00.000000925,3,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,1,2,W./C. 6607,23.45,,,925,Thursday
+1970-01-01 00:00:00.000000926,1,"Mock, Mr. Philipp Edmund",male,30.0,1,0,13236,57.75,C78,C,926,Thursday
+1970-01-01 00:00:00.000000927,3,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",male,18.5,0,0,2682,7.2292,,C,927,Thursday
+1970-01-01 00:00:00.000000928,3,"Roth, Miss. Sarah A",female,,0,0,342712,8.05,,,928,Thursday
+1970-01-01 00:00:00.000000929,3,"Cacic, Miss. Manda",female,21.0,0,0,315087,8.6625,,,929,Thursday
+1970-01-01 00:00:00.000000930,3,"Sap, Mr. Julius",male,25.0,0,0,345768,9.5,,,930,Thursday
+1970-01-01 00:00:00.000000931,3,"Hee, Mr. Ling",male,,0,0,1601,56.4958,,,931,Thursday
+1970-01-01 00:00:00.000000932,3,"Karun, Mr. Franz",male,39.0,0,1,349256,13.4167,,C,932,Thursday
+1970-01-01 00:00:00.000000933,1,"Franklin, Mr. Thomas Parham",male,,0,0,113778,26.55,D34,,933,Thursday
+1970-01-01 00:00:00.000000934,3,"Goldsmith, Mr. Nathan",male,41.0,0,0,SOTON/O.Q. 3101263,7.85,,,934,Thursday
+1970-01-01 00:00:00.000000935,2,"Corbett, Mrs. Walter H (Irene Colvin)",female,30.0,0,0,237249,13.0,,,935,Thursday
+1970-01-01 00:00:00.000000936,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45.0,1,0,11753,52.5542,D19,,936,Thursday
+1970-01-01 00:00:00.000000937,3,"Peltomaki, Mr. Nikolai Johannes",male,25.0,0,0,STON/O 2. 3101291,7.925,,,937,Thursday
+1970-01-01 00:00:00.000000938,1,"Chevre, Mr. Paul Romaine",male,45.0,0,0,PC 17594,29.7,A9,C,938,Thursday
+1970-01-01 00:00:00.000000939,3,"Shaughnessy, Mr. Patrick",male,,0,0,370374,7.75,,,939,Thursday
+1970-01-01 00:00:00.000000940,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60.0,0,0,11813,76.2917,D15,C,940,Thursday
+1970-01-01 00:00:00.000000941,3,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",female,36.0,0,2,C.A. 37671,15.9,,,941,Thursday
+1970-01-01 00:00:00.000000942,1,"Smith, Mr. Lucien Philip",male,24.0,1,0,13695,60.0,C31,,942,Thursday
+1970-01-01 00:00:00.000000943,2,"Pulbaum, Mr. Franz",male,27.0,0,0,SC/PARIS 2168,15.0333,,C,943,Thursday
+1970-01-01 00:00:00.000000944,2,"Hocking, Miss. Ellen Nellie""""",female,20.0,2,1,29105,23.0,,,944,Thursday
+1970-01-01 00:00:00.000000945,1,"Fortune, Miss. Ethel Flora",female,28.0,3,2,19950,263.0,C23 C25 C27,,945,Thursday
+1970-01-01 00:00:00.000000946,2,"Mangiavacchi, Mr. Serafino Emilio",male,,0,0,SC/A.3 2861,15.5792,,C,946,Thursday
+1970-01-01 00:00:00.000000947,3,"Rice, Master. Albert",male,10.0,4,1,382652,29.125,,,947,Thursday
+1970-01-01 00:00:00.000000948,3,"Cor, Mr. Bartol",male,35.0,0,0,349230,7.8958,,,948,Thursday
+1970-01-01 00:00:00.000000949,3,"Abelseth, Mr. Olaus Jorgensen",male,25.0,0,0,348122,7.65,F G63,,949,Thursday
+1970-01-01 00:00:00.000000950,3,"Davison, Mr. Thomas Henry",male,,1,0,386525,16.1,,,950,Thursday
+1970-01-01 00:00:00.000000951,1,"Chaudanson, Miss. Victorine",female,36.0,0,0,PC 17608,262.375,B61,C,951,Thursday
+1970-01-01 00:00:00.000000952,3,"Dika, Mr. Mirko",male,17.0,0,0,349232,7.8958,,,952,Thursday
+1970-01-01 00:00:00.000000953,2,"McCrae, Mr. Arthur Gordon",male,32.0,0,0,237216,13.5,,,953,Thursday
+1970-01-01 00:00:00.000000954,3,"Bjorklund, Mr. Ernst Herbert",male,18.0,0,0,347090,7.75,,,954,Thursday
+1970-01-01 00:00:00.000000955,3,"Bradley, Miss. Bridget Delia",female,22.0,0,0,334914,7.725,,,955,Thursday
+1970-01-01 00:00:00.000000956,1,"Ryerson, Master. John Borie",male,13.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,956,Thursday
+1970-01-01 00:00:00.000000957,2,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,,0,0,F.C.C. 13534,21.0,,,957,Thursday
+1970-01-01 00:00:00.000000958,3,"Burns, Miss. Mary Delia",female,18.0,0,0,330963,7.8792,,,958,Thursday
+1970-01-01 00:00:00.000000959,1,"Moore, Mr. Clarence Bloomfield",male,47.0,0,0,113796,42.4,,,959,Thursday
+1970-01-01 00:00:00.000000960,1,"Tucker, Mr. Gilbert Milligan Jr",male,31.0,0,0,2543,28.5375,C53,C,960,Thursday
+1970-01-01 00:00:00.000000961,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60.0,1,4,19950,263.0,C23 C25 C27,,961,Thursday
+1970-01-01 00:00:00.000000962,3,"Mulvihill, Miss. Bertha E",female,24.0,0,0,382653,7.75,,,962,Thursday
+1970-01-01 00:00:00.000000963,3,"Minkoff, Mr. Lazar",male,21.0,0,0,349211,7.8958,,,963,Thursday
+1970-01-01 00:00:00.000000964,3,"Nieminen, Miss. Manta Josefina",female,29.0,0,0,3101297,7.925,,,964,Thursday
+1970-01-01 00:00:00.000000965,1,"Ovies y Rodriguez, Mr. Servando",male,28.5,0,0,PC 17562,27.7208,D43,C,965,Thursday
+1970-01-01 00:00:00.000000966,1,"Geiger, Miss. Amalie",female,35.0,0,0,113503,211.5,C130,C,966,Thursday
+1970-01-01 00:00:00.000000967,1,"Keeping, Mr. Edwin",male,32.5,0,0,113503,211.5,C132,C,967,Thursday
+1970-01-01 00:00:00.000000968,3,"Miles, Mr. Frank",male,,0,0,359306,8.05,,,968,Thursday
+1970-01-01 00:00:00.000000969,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55.0,2,0,11770,25.7,C101,,969,Thursday
+1970-01-01 00:00:00.000000970,2,"Aldworth, Mr. Charles Augustus",male,30.0,0,0,248744,13.0,,,970,Thursday
+1970-01-01 00:00:00.000000971,3,"Doyle, Miss. Elizabeth",female,24.0,0,0,368702,7.75,,,971,Thursday
+1970-01-01 00:00:00.000000972,3,"Boulos, Master. Akar",male,6.0,1,1,2678,15.2458,,C,972,Thursday
+1970-01-01 00:00:00.000000973,1,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,,973,Thursday
+1970-01-01 00:00:00.000000974,1,"Case, Mr. Howard Brown",male,49.0,0,0,19924,26.0,,,974,Thursday
+1970-01-01 00:00:00.000000975,3,"Demetri, Mr. Marinko",male,,0,0,349238,7.8958,,,975,Thursday
+1970-01-01 00:00:00.000000976,2,"Lamb, Mr. John Joseph",male,,0,0,240261,10.7083,,,976,Thursday
+1970-01-01 00:00:00.000000977,3,"Khalil, Mr. Betros",male,,1,0,2660,14.4542,,C,977,Thursday
+1970-01-01 00:00:00.000000978,3,"Barry, Miss. Julia",female,27.0,0,0,330844,7.8792,,,978,Thursday
+1970-01-01 00:00:00.000000979,3,"Badman, Miss. Emily Louisa",female,18.0,0,0,A/4 31416,8.05,,,979,Thursday
+1970-01-01 00:00:00.000000980,3,"O'Donoghue, Ms. Bridget",female,,0,0,364856,7.75,,,980,Thursday
+1970-01-01 00:00:00.000000981,2,"Wells, Master. Ralph Lester",male,2.0,1,1,29103,23.0,,,981,Thursday
+1970-01-01 00:00:00.000000982,3,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22.0,1,0,347072,13.9,,,982,Thursday
+1970-01-01 00:00:00.000000983,3,"Pedersen, Mr. Olaf",male,,0,0,345498,7.775,,,983,Thursday
+1970-01-01 00:00:00.000000984,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27.0,1,2,F.C. 12750,52.0,B71,,984,Thursday
+1970-01-01 00:00:00.000000985,3,"Guest, Mr. Robert",male,,0,0,376563,8.05,,,985,Thursday
+1970-01-01 00:00:00.000000986,1,"Birnbaum, Mr. Jakob",male,25.0,0,0,13905,26.0,,C,986,Thursday
+1970-01-01 00:00:00.000000987,3,"Tenglin, Mr. Gunnar Isidor",male,25.0,0,0,350033,7.7958,,,987,Thursday
+1970-01-01 00:00:00.000000988,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76.0,1,0,19877,78.85,C46,,988,Thursday
+1970-01-01 00:00:00.000000989,3,"Makinen, Mr. Kalle Edvard",male,29.0,0,0,STON/O 2. 3101268,7.925,,,989,Thursday
+1970-01-01 00:00:00.000000990,3,"Braf, Miss. Elin Ester Maria",female,20.0,0,0,347471,7.8542,,,990,Thursday
+1970-01-01 00:00:00.000000991,3,"Nancarrow, Mr. William Henry",male,33.0,0,0,A./5. 3338,8.05,,,991,Thursday
+1970-01-01 00:00:00.000000992,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43.0,1,0,11778,55.4417,C116,C,992,Thursday
+1970-01-01 00:00:00.000000993,2,"Weisz, Mr. Leopold",male,27.0,1,0,228414,26.0,,,993,Thursday
+1970-01-01 00:00:00.000000994,3,"Foley, Mr. William",male,,0,0,365235,7.75,,,994,Thursday
+1970-01-01 00:00:00.000000995,3,"Johansson Palmquist, Mr. Oskar Leander",male,26.0,0,0,347070,7.775,,,995,Thursday
+1970-01-01 00:00:00.000000996,3,"Thomas, Mrs. Alexander (Thamine Thelma"")""",female,16.0,1,1,2625,8.5167,,C,996,Thursday
+1970-01-01 00:00:00.000000997,3,"Holthen, Mr. Johan Martin",male,28.0,0,0,C 4001,22.525,,,997,Thursday
+1970-01-01 00:00:00.000000998,3,"Buckley, Mr. Daniel",male,21.0,0,0,330920,7.8208,,,998,Thursday
+1970-01-01 00:00:00.000000999,3,"Ryan, Mr. Edward",male,,0,0,383162,7.75,,,999,Thursday
+1970-01-01 00:00:00.000001000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,,0,0,3410,8.7125,,,1000,Thursday
+1970-01-01 00:00:00.000001001,2,"Swane, Mr. George",male,18.5,0,0,248734,13.0,F,,1001,Thursday
+1970-01-01 00:00:00.000001002,2,"Stanton, Mr. Samuel Ward",male,41.0,0,0,237734,15.0458,,C,1002,Thursday
+1970-01-01 00:00:00.000001003,3,"Shine, Miss. Ellen Natalia",female,,0,0,330968,7.7792,,,1003,Thursday
+1970-01-01 00:00:00.000001004,1,"Evans, Miss. Edith Corse",female,36.0,0,0,PC 17531,31.6792,A29,C,1004,Thursday
+1970-01-01 00:00:00.000001005,3,"Buckley, Miss. Katherine",female,18.5,0,0,329944,7.2833,,,1005,Thursday
+1970-01-01 00:00:00.000001006,1,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63.0,1,0,PC 17483,221.7792,C55 C57,,1006,Thursday
+1970-01-01 00:00:00.000001007,3,"Chronopoulos, Mr. Demetrios",male,18.0,1,0,2680,14.4542,,C,1007,Thursday
+1970-01-01 00:00:00.000001008,3,"Thomas, Mr. John",male,,0,0,2681,6.4375,,C,1008,Thursday
+1970-01-01 00:00:00.000001009,3,"Sandstrom, Miss. Beatrice Irene",female,1.0,1,1,PP 9549,16.7,G6,,1009,Thursday
+1970-01-01 00:00:00.000001010,1,"Beattie, Mr. Thomson",male,36.0,0,0,13050,75.2417,C6,C,1010,Thursday
+1970-01-01 00:00:00.000001011,2,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29.0,1,0,SC/AH 29037,26.0,,,1011,Thursday
+1970-01-01 00:00:00.000001012,2,"Watt, Miss. Bertha J",female,12.0,0,0,C.A. 33595,15.75,,,1012,Thursday
+1970-01-01 00:00:00.000001013,3,"Kiernan, Mr. John",male,,1,0,367227,7.75,,,1013,Thursday
+1970-01-01 00:00:00.000001014,1,"Schabert, Mrs. Paul (Emma Mock)",female,35.0,1,0,13236,57.75,C28,C,1014,Thursday
+1970-01-01 00:00:00.000001015,3,"Carver, Mr. Alfred John",male,28.0,0,0,392095,7.25,,,1015,Thursday
+1970-01-01 00:00:00.000001016,3,"Kennedy, Mr. John",male,,0,0,368783,7.75,,,1016,Thursday
+1970-01-01 00:00:00.000001017,3,"Cribb, Miss. Laura Alice",female,17.0,0,1,371362,16.1,,,1017,Thursday
+1970-01-01 00:00:00.000001018,3,"Brobeck, Mr. Karl Rudolf",male,22.0,0,0,350045,7.7958,,,1018,Thursday
+1970-01-01 00:00:00.000001019,3,"McCoy, Miss. Alicia",female,,2,0,367226,23.25,,,1019,Thursday
+1970-01-01 00:00:00.000001020,2,"Bowenur, Mr. Solomon",male,42.0,0,0,211535,13.0,,,1020,Thursday
+1970-01-01 00:00:00.000001021,3,"Petersen, Mr. Marius",male,24.0,0,0,342441,8.05,,,1021,Thursday
+1970-01-01 00:00:00.000001022,3,"Spinner, Mr. Henry John",male,32.0,0,0,STON/OQ. 369943,8.05,,,1022,Thursday
+1970-01-01 00:00:00.000001023,1,"Gracie, Col. Archibald IV",male,53.0,0,0,113780,28.5,C51,C,1023,Thursday
+1970-01-01 00:00:00.000001024,3,"Lefebre, Mrs. Frank (Frances)",female,,0,4,4133,25.4667,,,1024,Thursday
+1970-01-01 00:00:00.000001025,3,"Thomas, Mr. Charles P",male,,1,0,2621,6.4375,,C,1025,Thursday
+1970-01-01 00:00:00.000001026,3,"Dintcheff, Mr. Valtcho",male,43.0,0,0,349226,7.8958,,,1026,Thursday
+1970-01-01 00:00:00.000001027,3,"Carlsson, Mr. Carl Robert",male,24.0,0,0,350409,7.8542,,,1027,Thursday
+1970-01-01 00:00:00.000001028,3,"Zakarian, Mr. Mapriededer",male,26.5,0,0,2656,7.225,,C,1028,Thursday
+1970-01-01 00:00:00.000001029,2,"Schmidt, Mr. August",male,26.0,0,0,248659,13.0,,,1029,Thursday
+1970-01-01 00:00:00.000001030,3,"Drapkin, Miss. Jennie",female,23.0,0,0,SOTON/OQ 392083,8.05,,,1030,Thursday
+1970-01-01 00:00:00.000001031,3,"Goodwin, Mr. Charles Frederick",male,40.0,1,6,CA 2144,46.9,,,1031,Thursday
+1970-01-01 00:00:00.000001032,3,"Goodwin, Miss. Jessie Allis",female,10.0,5,2,CA 2144,46.9,,,1032,Thursday
+1970-01-01 00:00:00.000001033,1,"Daniels, Miss. Sarah",female,33.0,0,0,113781,151.55,,,1033,Thursday
+1970-01-01 00:00:00.000001034,1,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,1034,Thursday
+1970-01-01 00:00:00.000001035,2,"Beauchamp, Mr. Henry James",male,28.0,0,0,244358,26.0,,,1035,Thursday
+1970-01-01 00:00:00.000001036,1,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42.0,0,0,17475,26.55,,,1036,Thursday
+1970-01-01 00:00:00.000001037,3,"Vander Planke, Mr. Julius",male,31.0,3,0,345763,18.0,,,1037,Thursday
+1970-01-01 00:00:00.000001038,1,"Hilliard, Mr. Herbert Henry",male,,0,0,17463,51.8625,E46,,1038,Thursday
+1970-01-01 00:00:00.000001039,3,"Davies, Mr. Evan",male,22.0,0,0,SC/A4 23568,8.05,,,1039,Thursday
+1970-01-01 00:00:00.000001040,1,"Crafton, Mr. John Bertram",male,,0,0,113791,26.55,,,1040,Thursday
+1970-01-01 00:00:00.000001041,2,"Lahtinen, Rev. William",male,30.0,1,1,250651,26.0,,,1041,Thursday
+1970-01-01 00:00:00.000001042,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23.0,0,1,11767,83.1583,C54,C,1042,Thursday
+1970-01-01 00:00:00.000001043,3,"Matinoff, Mr. Nicola",male,,0,0,349255,7.8958,,C,1043,Thursday
+1970-01-01 00:00:00.000001044,3,"Storey, Mr. Thomas",male,60.5,0,0,3701,,,,1044,Thursday
+1970-01-01 00:00:00.000001045,3,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36.0,0,2,350405,12.1833,,,1045,Thursday
+1970-01-01 00:00:00.000001046,3,"Asplund, Master. Filip Oscar",male,13.0,4,2,347077,31.3875,,,1046,Thursday
+1970-01-01 00:00:00.000001047,3,"Duquemin, Mr. Joseph",male,24.0,0,0,S.O./P.P. 752,7.55,,,1047,Thursday
+1970-01-01 00:00:00.000001048,1,"Bird, Miss. Ellen",female,29.0,0,0,PC 17483,221.7792,C97,,1048,Thursday
+1970-01-01 00:00:00.000001049,3,"Lundin, Miss. Olga Elida",female,23.0,0,0,347469,7.8542,,,1049,Thursday
+1970-01-01 00:00:00.000001050,1,"Borebank, Mr. John James",male,42.0,0,0,110489,26.55,D22,,1050,Thursday
+1970-01-01 00:00:00.000001051,3,"Peacock, Mrs. Benjamin (Edith Nile)",female,26.0,0,2,SOTON/O.Q. 3101315,13.775,,,1051,Thursday
+1970-01-01 00:00:00.000001052,3,"Smyth, Miss. Julia",female,,0,0,335432,7.7333,,,1052,Thursday
+1970-01-01 00:00:00.000001053,3,"Touma, Master. Georges Youssef",male,7.0,1,1,2650,15.2458,,C,1053,Thursday
+1970-01-01 00:00:00.000001054,2,"Wright, Miss. Marion",female,26.0,0,0,220844,13.5,,,1054,Thursday
+1970-01-01 00:00:00.000001055,3,"Pearce, Mr. Ernest",male,,0,0,343271,7.0,,,1055,Thursday
+1970-01-01 00:00:00.000001056,2,"Peruschitz, Rev. Joseph Maria",male,41.0,0,0,237393,13.0,,,1056,Thursday
+1970-01-01 00:00:00.000001057,3,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26.0,1,1,315153,22.025,,,1057,Thursday
+1970-01-01 00:00:00.000001058,1,"Brandeis, Mr. Emil",male,48.0,0,0,PC 17591,50.4958,B10,C,1058,Thursday
+1970-01-01 00:00:00.000001059,3,"Ford, Mr. Edward Watson",male,18.0,2,2,W./C. 6608,34.375,,,1059,Thursday
+1970-01-01 00:00:00.000001060,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,,0,0,17770,27.7208,,C,1060,Thursday
+1970-01-01 00:00:00.000001061,3,"Hellstrom, Miss. Hilda Maria",female,22.0,0,0,7548,8.9625,,,1061,Thursday
+1970-01-01 00:00:00.000001062,3,"Lithman, Mr. Simon",male,,0,0,S.O./P.P. 251,7.55,,,1062,Thursday
+1970-01-01 00:00:00.000001063,3,"Zakarian, Mr. Ortin",male,27.0,0,0,2670,7.225,,C,1063,Thursday
+1970-01-01 00:00:00.000001064,3,"Dyker, Mr. Adolf Fredrik",male,23.0,1,0,347072,13.9,,,1064,Thursday
+1970-01-01 00:00:00.000001065,3,"Torfa, Mr. Assad",male,,0,0,2673,7.2292,,C,1065,Thursday
+1970-01-01 00:00:00.000001066,3,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40.0,1,5,347077,31.3875,,,1066,Thursday
+1970-01-01 00:00:00.000001067,2,"Brown, Miss. Edith Eileen",female,15.0,0,2,29750,39.0,,,1067,Thursday
+1970-01-01 00:00:00.000001068,2,"Sincock, Miss. Maude",female,20.0,0,0,C.A. 33112,36.75,,,1068,Thursday
+1970-01-01 00:00:00.000001069,1,"Stengel, Mr. Charles Emil Henry",male,54.0,1,0,11778,55.4417,C116,C,1069,Thursday
+1970-01-01 00:00:00.000001070,2,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36.0,0,3,230136,39.0,F4,,1070,Thursday
+1970-01-01 00:00:00.000001071,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64.0,0,2,PC 17756,83.1583,E45,C,1071,Thursday
+1970-01-01 00:00:00.000001072,2,"McCrie, Mr. James Matthew",male,30.0,0,0,233478,13.0,,,1072,Thursday
+1970-01-01 00:00:00.000001073,1,"Compton, Mr. Alexander Taylor Jr",male,37.0,1,1,PC 17756,83.1583,E52,C,1073,Thursday
+1970-01-01 00:00:00.000001074,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18.0,1,0,113773,53.1,D30,,1074,Thursday
+1970-01-01 00:00:00.000001075,3,"Lane, Mr. Patrick",male,,0,0,7935,7.75,,,1075,Thursday
+1970-01-01 00:00:00.000001076,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27.0,1,1,PC 17558,247.5208,B58 B60,C,1076,Thursday
+1970-01-01 00:00:00.000001077,2,"Maybery, Mr. Frank Hubert",male,40.0,0,0,239059,16.0,,,1077,Thursday
+1970-01-01 00:00:00.000001078,2,"Phillips, Miss. Alice Frances Louisa",female,21.0,0,1,S.O./P.P. 2,21.0,,,1078,Thursday
+1970-01-01 00:00:00.000001079,3,"Davies, Mr. Joseph",male,17.0,2,0,A/4 48873,8.05,,,1079,Thursday
+1970-01-01 00:00:00.000001080,3,"Sage, Miss. Ada",female,,8,2,CA. 2343,69.55,,,1080,Thursday
+1970-01-01 00:00:00.000001081,2,"Veal, Mr. James",male,40.0,0,0,28221,13.0,,,1081,Thursday
+1970-01-01 00:00:00.000001082,2,"Angle, Mr. William A",male,34.0,1,0,226875,26.0,,,1082,Thursday
+1970-01-01 00:00:00.000001083,1,"Salomon, Mr. Abraham L",male,,0,0,111163,26.0,,,1083,Thursday
+1970-01-01 00:00:00.000001084,3,"van Billiard, Master. Walter John",male,11.5,1,1,A/5. 851,14.5,,,1084,Thursday
+1970-01-01 00:00:00.000001085,2,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,,1085,Thursday
+1970-01-01 00:00:00.000001086,2,"Drew, Master. Marshall Brines",male,8.0,0,2,28220,32.5,,,1086,Thursday
+1970-01-01 00:00:00.000001087,3,"Karlsson, Mr. Julius Konrad Eugen",male,33.0,0,0,347465,7.8542,,,1087,Thursday
+1970-01-01 00:00:00.000001088,1,"Spedden, Master. Robert Douglas",male,6.0,0,2,16966,134.5,E34,C,1088,Thursday
+1970-01-01 00:00:00.000001089,3,"Nilsson, Miss. Berta Olivia",female,18.0,0,0,347066,7.775,,,1089,Thursday
+1970-01-01 00:00:00.000001090,2,"Baimbrigge, Mr. Charles Robert",male,23.0,0,0,C.A. 31030,10.5,,,1090,Thursday
+1970-01-01 00:00:00.000001091,3,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,,0,0,65305,8.1125,,,1091,Thursday
+1970-01-01 00:00:00.000001092,3,"Murphy, Miss. Nora",female,,0,0,36568,15.5,,,1092,Thursday
+1970-01-01 00:00:00.000001093,3,"Danbom, Master. Gilbert Sigvard Emanuel",male,0.33,0,2,347080,14.4,,,1093,Thursday
+1970-01-01 00:00:00.000001094,1,"Astor, Col. John Jacob",male,47.0,1,0,PC 17757,227.525,C62 C64,C,1094,Thursday
+1970-01-01 00:00:00.000001095,2,"Quick, Miss. Winifred Vera",female,8.0,1,1,26360,26.0,,,1095,Thursday
+1970-01-01 00:00:00.000001096,2,"Andrew, Mr. Frank Thomas",male,25.0,0,0,C.A. 34050,10.5,,,1096,Thursday
+1970-01-01 00:00:00.000001097,1,"Omont, Mr. Alfred Fernand",male,,0,0,F.C. 12998,25.7417,,C,1097,Thursday
+1970-01-01 00:00:00.000001098,3,"McGowan, Miss. Katherine",female,35.0,0,0,9232,7.75,,,1098,Thursday
+1970-01-01 00:00:00.000001099,2,"Collett, Mr. Sidney C Stuart",male,24.0,0,0,28034,10.5,,,1099,Thursday
+1970-01-01 00:00:00.000001100,1,"Rosenbaum, Miss. Edith Louise",female,33.0,0,0,PC 17613,27.7208,A11,C,1100,Thursday
+1970-01-01 00:00:00.000001101,3,"Delalic, Mr. Redjo",male,25.0,0,0,349250,7.8958,,,1101,Thursday
+1970-01-01 00:00:00.000001102,3,"Andersen, Mr. Albert Karvin",male,32.0,0,0,C 4001,22.525,,,1102,Thursday
+1970-01-01 00:00:00.000001103,3,"Finoli, Mr. Luigi",male,,0,0,SOTON/O.Q. 3101308,7.05,,,1103,Thursday
+1970-01-01 00:00:00.000001104,2,"Deacon, Mr. Percy William",male,17.0,0,0,S.O.C. 14879,73.5,,,1104,Thursday
+1970-01-01 00:00:00.000001105,2,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60.0,1,0,24065,26.0,,,1105,Thursday
+1970-01-01 00:00:00.000001106,3,"Andersson, Miss. Ida Augusta Margareta",female,38.0,4,2,347091,7.775,,,1106,Thursday
+1970-01-01 00:00:00.000001107,1,"Head, Mr. Christopher",male,42.0,0,0,113038,42.5,B11,,1107,Thursday
+1970-01-01 00:00:00.000001108,3,"Mahon, Miss. Bridget Delia",female,,0,0,330924,7.8792,,,1108,Thursday
+1970-01-01 00:00:00.000001109,1,"Wick, Mr. George Dennick",male,57.0,1,1,36928,164.8667,,,1109,Thursday
+1970-01-01 00:00:00.000001110,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50.0,1,1,113503,211.5,C80,C,1110,Thursday
+1970-01-01 00:00:00.000001111,3,"Thomson, Mr. Alexander Morrison",male,,0,0,32302,8.05,,,1111,Thursday
+1970-01-01 00:00:00.000001112,2,"Duran y More, Miss. Florentina",female,30.0,1,0,SC/PARIS 2148,13.8583,,C,1112,Thursday
+1970-01-01 00:00:00.000001113,3,"Reynolds, Mr. Harold J",male,21.0,0,0,342684,8.05,,,1113,Thursday
+1970-01-01 00:00:00.000001114,2,"Cook, Mrs. (Selena Rogers)",female,22.0,0,0,W./C. 14266,10.5,F33,,1114,Thursday
+1970-01-01 00:00:00.000001115,3,"Karlsson, Mr. Einar Gervasius",male,21.0,0,0,350053,7.7958,,,1115,Thursday
+1970-01-01 00:00:00.000001116,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53.0,0,0,PC 17606,27.4458,,C,1116,Thursday
+1970-01-01 00:00:00.000001117,3,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",female,,0,2,2661,15.2458,,C,1117,Thursday
+1970-01-01 00:00:00.000001118,3,"Asplund, Mr. Johan Charles",male,23.0,0,0,350054,7.7958,,,1118,Thursday
+1970-01-01 00:00:00.000001119,3,"McNeill, Miss. Bridget",female,,0,0,370368,7.75,,,1119,Thursday
+1970-01-01 00:00:00.000001120,3,"Everett, Mr. Thomas James",male,40.5,0,0,C.A. 6212,15.1,,,1120,Thursday
+1970-01-01 00:00:00.000001121,2,"Hocking, Mr. Samuel James Metcalfe",male,36.0,0,0,242963,13.0,,,1121,Thursday
+1970-01-01 00:00:00.000001122,2,"Sweet, Mr. George Frederick",male,14.0,0,0,220845,65.0,,,1122,Thursday
+1970-01-01 00:00:00.000001123,1,"Willard, Miss. Constance",female,21.0,0,0,113795,26.55,,,1123,Thursday
+1970-01-01 00:00:00.000001124,3,"Wiklund, Mr. Karl Johan",male,21.0,1,0,3101266,6.4958,,,1124,Thursday
+1970-01-01 00:00:00.000001125,3,"Linehan, Mr. Michael",male,,0,0,330971,7.8792,,,1125,Thursday
+1970-01-01 00:00:00.000001126,1,"Cumings, Mr. John Bradley",male,39.0,1,0,PC 17599,71.2833,C85,C,1126,Thursday
+1970-01-01 00:00:00.000001127,3,"Vendel, Mr. Olof Edvin",male,20.0,0,0,350416,7.8542,,,1127,Thursday
+1970-01-01 00:00:00.000001128,1,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,C,1128,Thursday
+1970-01-01 00:00:00.000001129,3,"Baccos, Mr. Raffull",male,20.0,0,0,2679,7.225,,C,1129,Thursday
+1970-01-01 00:00:00.000001130,2,"Hiltunen, Miss. Marta",female,18.0,1,1,250650,13.0,,,1130,Thursday
+1970-01-01 00:00:00.000001131,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48.0,1,0,PC 17761,106.425,C86,C,1131,Thursday
+1970-01-01 00:00:00.000001132,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55.0,0,0,112377,27.7208,,C,1132,Thursday
+1970-01-01 00:00:00.000001133,2,"Christy, Mrs. (Alice Frances)",female,45.0,0,2,237789,30.0,,,1133,Thursday
+1970-01-01 00:00:00.000001134,1,"Spedden, Mr. Frederic Oakley",male,45.0,1,1,16966,134.5,E34,C,1134,Thursday
+1970-01-01 00:00:00.000001135,3,"Hyman, Mr. Abraham",male,,0,0,3470,7.8875,,,1135,Thursday
+1970-01-01 00:00:00.000001136,3,"Johnston, Master. William Arthur Willie""""",male,,1,2,W./C. 6607,23.45,,,1136,Thursday
+1970-01-01 00:00:00.000001137,1,"Kenyon, Mr. Frederick R",male,41.0,1,0,17464,51.8625,D21,,1137,Thursday
+1970-01-01 00:00:00.000001138,2,"Karnes, Mrs. J Frank (Claire Bennett)",female,22.0,0,0,F.C.C. 13534,21.0,,,1138,Thursday
+1970-01-01 00:00:00.000001139,2,"Drew, Mr. James Vivian",male,42.0,1,1,28220,32.5,,,1139,Thursday
+1970-01-01 00:00:00.000001140,2,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29.0,1,0,26707,26.0,,,1140,Thursday
+1970-01-01 00:00:00.000001141,3,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",female,,1,0,2660,14.4542,,C,1141,Thursday
+1970-01-01 00:00:00.000001142,2,"West, Miss. Barbara J",female,0.92,1,2,C.A. 34651,27.75,,,1142,Thursday
+1970-01-01 00:00:00.000001143,3,"Abrahamsson, Mr. Abraham August Johannes",male,20.0,0,0,SOTON/O2 3101284,7.925,,,1143,Thursday
+1970-01-01 00:00:00.000001144,1,"Clark, Mr. Walter Miller",male,27.0,1,0,13508,136.7792,C89,C,1144,Thursday
+1970-01-01 00:00:00.000001145,3,"Salander, Mr. Karl Johan",male,24.0,0,0,7266,9.325,,,1145,Thursday
+1970-01-01 00:00:00.000001146,3,"Wenzel, Mr. Linhart",male,32.5,0,0,345775,9.5,,,1146,Thursday
+1970-01-01 00:00:00.000001147,3,"MacKay, Mr. George William",male,,0,0,C.A. 42795,7.55,,,1147,Thursday
+1970-01-01 00:00:00.000001148,3,"Mahon, Mr. John",male,,0,0,AQ/4 3130,7.75,,,1148,Thursday
+1970-01-01 00:00:00.000001149,3,"Niklasson, Mr. Samuel",male,28.0,0,0,363611,8.05,,,1149,Thursday
+1970-01-01 00:00:00.000001150,2,"Bentham, Miss. Lilian W",female,19.0,0,0,28404,13.0,,,1150,Thursday
+1970-01-01 00:00:00.000001151,3,"Midtsjo, Mr. Karl Albert",male,21.0,0,0,345501,7.775,,,1151,Thursday
+1970-01-01 00:00:00.000001152,3,"de Messemaeker, Mr. Guillaume Joseph",male,36.5,1,0,345572,17.4,,,1152,Thursday
+1970-01-01 00:00:00.000001153,3,"Nilsson, Mr. August Ferdinand",male,21.0,0,0,350410,7.8542,,,1153,Thursday
+1970-01-01 00:00:00.000001154,2,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29.0,0,2,29103,23.0,,,1154,Thursday
+1970-01-01 00:00:00.000001155,3,"Klasen, Miss. Gertrud Emilia",female,1.0,1,1,350405,12.1833,,,1155,Thursday
+1970-01-01 00:00:00.000001156,2,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30.0,0,0,C.A. 34644,12.7375,,C,1156,Thursday
+1970-01-01 00:00:00.000001157,3,"Lyntakoff, Mr. Stanko",male,,0,0,349235,7.8958,,,1157,Thursday
+1970-01-01 00:00:00.000001158,1,"Chisholm, Mr. Roderick Robert Crispin",male,,0,0,112051,0.0,,,1158,Thursday
+1970-01-01 00:00:00.000001159,3,"Warren, Mr. Charles William",male,,0,0,C.A. 49867,7.55,,,1159,Thursday
+1970-01-01 00:00:00.000001160,3,"Howard, Miss. May Elizabeth",female,,0,0,A. 2. 39186,8.05,,,1160,Thursday
+1970-01-01 00:00:00.000001161,3,"Pokrnic, Mr. Mate",male,17.0,0,0,315095,8.6625,,,1161,Thursday
+1970-01-01 00:00:00.000001162,1,"McCaffry, Mr. Thomas Francis",male,46.0,0,0,13050,75.2417,C6,C,1162,Thursday
+1970-01-01 00:00:00.000001163,3,"Fox, Mr. Patrick",male,,0,0,368573,7.75,,,1163,Thursday
+1970-01-01 00:00:00.000001164,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26.0,1,0,13508,136.7792,C89,C,1164,Thursday
+1970-01-01 00:00:00.000001165,3,"Lennon, Miss. Mary",female,,1,0,370371,15.5,,,1165,Thursday
+1970-01-01 00:00:00.000001166,3,"Saade, Mr. Jean Nassr",male,,0,0,2676,7.225,,C,1166,Thursday
+1970-01-01 00:00:00.000001167,2,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20.0,1,0,236853,26.0,,,1167,Thursday
+1970-01-01 00:00:00.000001168,2,"Parker, Mr. Clifford Richard",male,28.0,0,0,SC 14888,10.5,,,1168,Thursday
+1970-01-01 00:00:00.000001169,2,"Faunthorpe, Mr. Harry",male,40.0,1,0,2926,26.0,,,1169,Thursday
+1970-01-01 00:00:00.000001170,2,"Ware, Mr. John James",male,30.0,1,0,CA 31352,21.0,,,1170,Thursday
+1970-01-01 00:00:00.000001171,2,"Oxenham, Mr. Percy Thomas",male,22.0,0,0,W./C. 14260,10.5,,,1171,Thursday
+1970-01-01 00:00:00.000001172,3,"Oreskovic, Miss. Jelka",female,23.0,0,0,315085,8.6625,,,1172,Thursday
+1970-01-01 00:00:00.000001173,3,"Peacock, Master. Alfred Edward",male,0.75,1,1,SOTON/O.Q. 3101315,13.775,,,1173,Thursday
+1970-01-01 00:00:00.000001174,3,"Fleming, Miss. Honora",female,,0,0,364859,7.75,,,1174,Thursday
+1970-01-01 00:00:00.000001175,3,"Touma, Miss. Maria Youssef",female,9.0,1,1,2650,15.2458,,C,1175,Thursday
+1970-01-01 00:00:00.000001176,3,"Rosblom, Miss. Salli Helena",female,2.0,1,1,370129,20.2125,,,1176,Thursday
+1970-01-01 00:00:00.000001177,3,"Dennis, Mr. William",male,36.0,0,0,A/5 21175,7.25,,,1177,Thursday
+1970-01-01 00:00:00.000001178,3,"Franklin, Mr. Charles (Charles Fardon)",male,,0,0,SOTON/O.Q. 3101314,7.25,,,1178,Thursday
+1970-01-01 00:00:00.000001179,1,"Snyder, Mr. John Pillsbury",male,24.0,1,0,21228,82.2667,B45,,1179,Thursday
+1970-01-01 00:00:00.000001180,3,"Mardirosian, Mr. Sarkis",male,,0,0,2655,7.2292,F E46,C,1180,Thursday
+1970-01-01 00:00:00.000001181,3,"Ford, Mr. Arthur",male,,0,0,A/5 1478,8.05,,,1181,Thursday
+1970-01-01 00:00:00.000001182,1,"Rheims, Mr. George Alexander Lucien",male,,0,0,PC 17607,39.6,,,1182,Thursday
+1970-01-01 00:00:00.000001183,3,"Daly, Miss. Margaret Marcella Maggie""""",female,30.0,0,0,382650,6.95,,,1183,Thursday
+1970-01-01 00:00:00.000001184,3,"Nasr, Mr. Mustafa",male,,0,0,2652,7.2292,,C,1184,Thursday
+1970-01-01 00:00:00.000001185,1,"Dodge, Dr. Washington",male,53.0,1,1,33638,81.8583,A34,,1185,Thursday
+1970-01-01 00:00:00.000001186,3,"Wittevrongel, Mr. Camille",male,36.0,0,0,345771,9.5,,,1186,Thursday
+1970-01-01 00:00:00.000001187,3,"Angheloff, Mr. Minko",male,26.0,0,0,349202,7.8958,,,1187,Thursday
+1970-01-01 00:00:00.000001188,2,"Laroche, Miss. Louise",female,1.0,1,2,SC/Paris 2123,41.5792,,C,1188,Thursday
+1970-01-01 00:00:00.000001189,3,"Samaan, Mr. Hanna",male,,2,0,2662,21.6792,,C,1189,Thursday
+1970-01-01 00:00:00.000001190,1,"Loring, Mr. Joseph Holland",male,30.0,0,0,113801,45.5,,,1190,Thursday
+1970-01-01 00:00:00.000001191,3,"Johansson, Mr. Nils",male,29.0,0,0,347467,7.8542,,,1191,Thursday
+1970-01-01 00:00:00.000001192,3,"Olsson, Mr. Oscar Wilhelm",male,32.0,0,0,347079,7.775,,,1192,Thursday
+1970-01-01 00:00:00.000001193,2,"Malachard, Mr. Noel",male,,0,0,237735,15.0458,D,C,1193,Thursday
+1970-01-01 00:00:00.000001194,2,"Phillips, Mr. Escott Robert",male,43.0,0,1,S.O./P.P. 2,21.0,,,1194,Thursday
+1970-01-01 00:00:00.000001195,3,"Pokrnic, Mr. Tome",male,24.0,0,0,315092,8.6625,,,1195,Thursday
+1970-01-01 00:00:00.000001196,3,"McCarthy, Miss. Catherine Katie""""",female,,0,0,383123,7.75,,,1196,Thursday
+1970-01-01 00:00:00.000001197,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64.0,1,1,112901,26.55,B26,,1197,Thursday
+1970-01-01 00:00:00.000001198,1,"Allison, Mr. Hudson Joshua Creighton",male,30.0,1,2,113781,151.55,C22 C26,,1198,Thursday
+1970-01-01 00:00:00.000001199,3,"Aks, Master. Philip Frank",male,0.83,0,1,392091,9.35,,,1199,Thursday
+1970-01-01 00:00:00.000001200,1,"Hays, Mr. Charles Melville",male,55.0,1,1,12749,93.5,B69,,1200,Thursday
+1970-01-01 00:00:00.000001201,3,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45.0,1,0,350026,14.1083,,,1201,Thursday
+1970-01-01 00:00:00.000001202,3,"Cacic, Mr. Jego Grga",male,18.0,0,0,315091,8.6625,,,1202,Thursday
+1970-01-01 00:00:00.000001203,3,"Vartanian, Mr. David",male,22.0,0,0,2658,7.225,,C,1203,Thursday
+1970-01-01 00:00:00.000001204,3,"Sadowitz, Mr. Harry",male,,0,0,LP 1588,7.575,,,1204,Thursday
+1970-01-01 00:00:00.000001205,3,"Carr, Miss. Jeannie",female,37.0,0,0,368364,7.75,,,1205,Thursday
+1970-01-01 00:00:00.000001206,1,"White, Mrs. John Stuart (Ella Holmes)",female,55.0,0,0,PC 17760,135.6333,C32,C,1206,Thursday
+1970-01-01 00:00:00.000001207,3,"Hagardon, Miss. Kate",female,17.0,0,0,AQ/3. 30631,7.7333,,,1207,Thursday
+1970-01-01 00:00:00.000001208,1,"Spencer, Mr. William Augustus",male,57.0,1,0,PC 17569,146.5208,B78,C,1208,Thursday
+1970-01-01 00:00:00.000001209,2,"Rogers, Mr. Reginald Harry",male,19.0,0,0,28004,10.5,,,1209,Thursday
+1970-01-01 00:00:00.000001210,3,"Jonsson, Mr. Nils Hilding",male,27.0,0,0,350408,7.8542,,,1210,Thursday
+1970-01-01 00:00:00.000001211,2,"Jefferys, Mr. Ernest Wilfred",male,22.0,2,0,C.A. 31029,31.5,,,1211,Thursday
+1970-01-01 00:00:00.000001212,3,"Andersson, Mr. Johan Samuel",male,26.0,0,0,347075,7.775,,,1212,Thursday
+1970-01-01 00:00:00.000001213,3,"Krekorian, Mr. Neshan",male,25.0,0,0,2654,7.2292,F E57,C,1213,Thursday
+1970-01-01 00:00:00.000001214,2,"Nesson, Mr. Israel",male,26.0,0,0,244368,13.0,F2,,1214,Thursday
+1970-01-01 00:00:00.000001215,1,"Rowe, Mr. Alfred G",male,33.0,0,0,113790,26.55,,,1215,Thursday
+1970-01-01 00:00:00.000001216,1,"Kreuchen, Miss. Emilie",female,39.0,0,0,24160,211.3375,,,1216,Thursday
+1970-01-01 00:00:00.000001217,3,"Assam, Mr. Ali",male,23.0,0,0,SOTON/O.Q. 3101309,7.05,,,1217,Thursday
+1970-01-01 00:00:00.000001218,2,"Becker, Miss. Ruth Elizabeth",female,12.0,2,1,230136,39.0,F4,,1218,Thursday
+1970-01-01 00:00:00.000001219,1,"Rosenshine, Mr. George (Mr George Thorne"")""",male,46.0,0,0,PC 17585,79.2,,C,1219,Thursday
+1970-01-01 00:00:00.000001220,2,"Clarke, Mr. Charles Valentine",male,29.0,1,0,2003,26.0,,,1220,Thursday
+1970-01-01 00:00:00.000001221,2,"Enander, Mr. Ingvar",male,21.0,0,0,236854,13.0,,,1221,Thursday
+1970-01-01 00:00:00.000001222,2,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48.0,0,2,C.A. 33112,36.75,,,1222,Thursday
+1970-01-01 00:00:00.000001223,1,"Dulles, Mr. William Crothers",male,39.0,0,0,PC 17580,29.7,A18,C,1223,Thursday
+1970-01-01 00:00:00.000001224,3,"Thomas, Mr. Tannous",male,,0,0,2684,7.225,,C,1224,Thursday
+1970-01-01 00:00:00.000001225,3,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",female,19.0,1,1,2653,15.7417,,C,1225,Thursday
+1970-01-01 00:00:00.000001226,3,"Cor, Mr. Ivan",male,27.0,0,0,349229,7.8958,,,1226,Thursday
+1970-01-01 00:00:00.000001227,1,"Maguire, Mr. John Edward",male,30.0,0,0,110469,26.0,C106,,1227,Thursday
+1970-01-01 00:00:00.000001228,2,"de Brito, Mr. Jose Joaquim",male,32.0,0,0,244360,13.0,,,1228,Thursday
+1970-01-01 00:00:00.000001229,3,"Elias, Mr. Joseph",male,39.0,0,2,2675,7.2292,,C,1229,Thursday
+1970-01-01 00:00:00.000001230,2,"Denbury, Mr. Herbert",male,25.0,0,0,C.A. 31029,31.5,,,1230,Thursday
+1970-01-01 00:00:00.000001231,3,"Betros, Master. Seman",male,,0,0,2622,7.2292,,C,1231,Thursday
+1970-01-01 00:00:00.000001232,2,"Fillbrook, Mr. Joseph Charles",male,18.0,0,0,C.A. 15185,10.5,,,1232,Thursday
+1970-01-01 00:00:00.000001233,3,"Lundstrom, Mr. Thure Edvin",male,32.0,0,0,350403,7.5792,,,1233,Thursday
+1970-01-01 00:00:00.000001234,3,"Sage, Mr. John George",male,,1,9,CA. 2343,69.55,,,1234,Thursday
+1970-01-01 00:00:00.000001235,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58.0,0,1,PC 17755,512.3292,B51 B53 B55,C,1235,Thursday
+1970-01-01 00:00:00.000001236,3,"van Billiard, Master. James William",male,,1,1,A/5. 851,14.5,,,1236,Thursday
+1970-01-01 00:00:00.000001237,3,"Abelseth, Miss. Karen Marie",female,16.0,0,0,348125,7.65,,,1237,Thursday
+1970-01-01 00:00:00.000001238,2,"Botsford, Mr. William Hull",male,26.0,0,0,237670,13.0,,,1238,Thursday
+1970-01-01 00:00:00.000001239,3,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38.0,0,0,2688,7.2292,,C,1239,Thursday
+1970-01-01 00:00:00.000001240,2,"Giles, Mr. Ralph",male,24.0,0,0,248726,13.5,,,1240,Thursday
+1970-01-01 00:00:00.000001241,2,"Walcroft, Miss. Nellie",female,31.0,0,0,F.C.C. 13528,21.0,,,1241,Thursday
+1970-01-01 00:00:00.000001242,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45.0,0,1,PC 17759,63.3583,D10 D12,C,1242,Thursday
+1970-01-01 00:00:00.000001243,2,"Stokes, Mr. Philip Joseph",male,25.0,0,0,F.C.C. 13540,10.5,,,1243,Thursday
+1970-01-01 00:00:00.000001244,2,"Dibden, Mr. William",male,18.0,0,0,S.O.C. 14879,73.5,,,1244,Thursday
+1970-01-01 00:00:00.000001245,2,"Herman, Mr. Samuel",male,49.0,1,2,220845,65.0,,,1245,Thursday
+1970-01-01 00:00:00.000001246,3,"Dean, Miss. Elizabeth Gladys Millvina""""",female,0.17,1,2,C.A. 2315,20.575,,,1246,Thursday
+1970-01-01 00:00:00.000001247,1,"Julian, Mr. Henry Forbes",male,50.0,0,0,113044,26.0,E60,,1247,Thursday
+1970-01-01 00:00:00.000001248,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59.0,2,0,11769,51.4792,C101,,1248,Thursday
+1970-01-01 00:00:00.000001249,3,"Lockyer, Mr. Edward",male,,0,0,1222,7.8792,,,1249,Thursday
+1970-01-01 00:00:00.000001250,3,"O'Keefe, Mr. Patrick",male,,0,0,368402,7.75,,,1250,Thursday
+1970-01-01 00:00:00.000001251,3,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30.0,1,0,349910,15.55,,,1251,Thursday
+1970-01-01 00:00:00.000001252,3,"Sage, Master. William Henry",male,14.5,8,2,CA. 2343,69.55,,,1252,Thursday
+1970-01-01 00:00:00.000001253,2,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24.0,1,1,S.C./PARIS 2079,37.0042,,C,1253,Thursday
+1970-01-01 00:00:00.000001254,2,"Ware, Mrs. John James (Florence Louise Long)",female,31.0,0,0,CA 31352,21.0,,,1254,Thursday
+1970-01-01 00:00:00.000001255,3,"Strilic, Mr. Ivan",male,27.0,0,0,315083,8.6625,,,1255,Thursday
+1970-01-01 00:00:00.000001256,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25.0,1,0,11765,55.4417,E50,C,1256,Thursday
+1970-01-01 00:00:00.000001257,3,"Sage, Mrs. John (Annie Bullen)",female,,1,9,CA. 2343,69.55,,,1257,Thursday
+1970-01-01 00:00:00.000001258,3,"Caram, Mr. Joseph",male,,1,0,2689,14.4583,,C,1258,Thursday
+1970-01-01 00:00:00.000001259,3,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",female,22.0,0,0,3101295,39.6875,,,1259,Thursday
+1970-01-01 00:00:00.000001260,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45.0,0,1,112378,59.4,,C,1260,Thursday
+1970-01-01 00:00:00.000001261,2,"Pallas y Castello, Mr. Emilio",male,29.0,0,0,SC/PARIS 2147,13.8583,,C,1261,Thursday
+1970-01-01 00:00:00.000001262,2,"Giles, Mr. Edgar",male,21.0,1,0,28133,11.5,,,1262,Thursday
+1970-01-01 00:00:00.000001263,1,"Wilson, Miss. Helen Alice",female,31.0,0,0,16966,134.5,E39 E41,C,1263,Thursday
+1970-01-01 00:00:00.000001264,1,"Ismay, Mr. Joseph Bruce",male,49.0,0,0,112058,0.0,B52 B54 B56,,1264,Thursday
+1970-01-01 00:00:00.000001265,2,"Harbeck, Mr. William H",male,44.0,0,0,248746,13.0,,,1265,Thursday
+1970-01-01 00:00:00.000001266,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54.0,1,1,33638,81.8583,A34,,1266,Thursday
+1970-01-01 00:00:00.000001267,1,"Bowen, Miss. Grace Scott",female,45.0,0,0,PC 17608,262.375,,C,1267,Thursday
+1970-01-01 00:00:00.000001268,3,"Kink, Miss. Maria",female,22.0,2,0,315152,8.6625,,,1268,Thursday
+1970-01-01 00:00:00.000001269,2,"Cotterill, Mr. Henry Harry""""",male,21.0,0,0,29107,11.5,,,1269,Thursday
+1970-01-01 00:00:00.000001270,1,"Hipkins, Mr. William Edward",male,55.0,0,0,680,50.0,C39,,1270,Thursday
+1970-01-01 00:00:00.000001271,3,"Asplund, Master. Carl Edgar",male,5.0,4,2,347077,31.3875,,,1271,Thursday
+1970-01-01 00:00:00.000001272,3,"O'Connor, Mr. Patrick",male,,0,0,366713,7.75,,,1272,Thursday
+1970-01-01 00:00:00.000001273,3,"Foley, Mr. Joseph",male,26.0,0,0,330910,7.8792,,,1273,Thursday
+1970-01-01 00:00:00.000001274,3,"Risien, Mrs. Samuel (Emma)",female,,0,0,364498,14.5,,,1274,Thursday
+1970-01-01 00:00:00.000001275,3,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19.0,1,0,376566,16.1,,,1275,Thursday
+1970-01-01 00:00:00.000001276,2,"Wheeler, Mr. Edwin Frederick""""",male,,0,0,SC/PARIS 2159,12.875,,,1276,Thursday
+1970-01-01 00:00:00.000001277,2,"Herman, Miss. Kate",female,24.0,1,2,220845,65.0,,,1277,Thursday
+1970-01-01 00:00:00.000001278,3,"Aronsson, Mr. Ernst Axel Algot",male,24.0,0,0,349911,7.775,,,1278,Thursday
+1970-01-01 00:00:00.000001279,2,"Ashby, Mr. John",male,57.0,0,0,244346,13.0,,,1279,Thursday
+1970-01-01 00:00:00.000001280,3,"Canavan, Mr. Patrick",male,21.0,0,0,364858,7.75,,,1280,Thursday
+1970-01-01 00:00:00.000001281,3,"Palsson, Master. Paul Folke",male,6.0,3,1,349909,21.075,,,1281,Thursday
+1970-01-01 00:00:00.000001282,1,"Payne, Mr. Vivian Ponsonby",male,23.0,0,0,12749,93.5,B24,,1282,Thursday
+1970-01-01 00:00:00.000001283,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51.0,0,1,PC 17592,39.4,D28,,1283,Thursday
+1970-01-01 00:00:00.000001284,3,"Abbott, Master. Eugene Joseph",male,13.0,0,2,C.A. 2673,20.25,,,1284,Thursday
+1970-01-01 00:00:00.000001285,2,"Gilbert, Mr. William",male,47.0,0,0,C.A. 30769,10.5,,,1285,Thursday
+1970-01-01 00:00:00.000001286,3,"Kink-Heilmann, Mr. Anton",male,29.0,3,1,315153,22.025,,,1286,Thursday
+1970-01-01 00:00:00.000001287,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18.0,1,0,13695,60.0,C31,,1287,Thursday
+1970-01-01 00:00:00.000001288,3,"Colbert, Mr. Patrick",male,24.0,0,0,371109,7.25,,,1288,Thursday
+1970-01-01 00:00:00.000001289,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48.0,1,1,13567,79.2,B41,C,1289,Thursday
+1970-01-01 00:00:00.000001290,3,"Larsson-Rondberg, Mr. Edvard A",male,22.0,0,0,347065,7.775,,,1290,Thursday
+1970-01-01 00:00:00.000001291,3,"Conlon, Mr. Thomas Henry",male,31.0,0,0,21332,7.7333,,,1291,Thursday
+1970-01-01 00:00:00.000001292,1,"Bonnell, Miss. Caroline",female,30.0,0,0,36928,164.8667,C7,,1292,Thursday
+1970-01-01 00:00:00.000001293,2,"Gale, Mr. Harry",male,38.0,1,0,28664,21.0,,,1293,Thursday
+1970-01-01 00:00:00.000001294,1,"Gibson, Miss. Dorothy Winifred",female,22.0,0,1,112378,59.4,,C,1294,Thursday
+1970-01-01 00:00:00.000001295,1,"Carrau, Mr. Jose Pedro",male,17.0,0,0,113059,47.1,,,1295,Thursday
+1970-01-01 00:00:00.000001296,1,"Frauenthal, Mr. Isaac Gerald",male,43.0,1,0,17765,27.7208,D40,C,1296,Thursday
+1970-01-01 00:00:00.000001297,2,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",male,20.0,0,0,SC/PARIS 2166,13.8625,D38,C,1297,Thursday
+1970-01-01 00:00:00.000001298,2,"Ware, Mr. William Jeffery",male,23.0,1,0,28666,10.5,,,1298,Thursday
+1970-01-01 00:00:00.000001299,1,"Widener, Mr. George Dunton",male,50.0,1,1,113503,211.5,C80,C,1299,Thursday
+1970-01-01 00:00:00.000001300,3,"Riordan, Miss. Johanna Hannah""""",female,,0,0,334915,7.7208,,,1300,Thursday
+1970-01-01 00:00:00.000001301,3,"Peacock, Miss. Treasteall",female,3.0,1,1,SOTON/O.Q. 3101315,13.775,,,1301,Thursday
+1970-01-01 00:00:00.000001302,3,"Naughton, Miss. Hannah",female,,0,0,365237,7.75,,,1302,Thursday
+1970-01-01 00:00:00.000001303,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37.0,1,0,19928,90.0,C78,,1303,Thursday
+1970-01-01 00:00:00.000001304,3,"Henriksson, Miss. Jenny Lovisa",female,28.0,0,0,347086,7.775,,,1304,Thursday
+1970-01-01 00:00:00.000001305,3,"Spector, Mr. Woolf",male,,0,0,A.5. 3236,8.05,,,1305,Thursday
+1970-01-01 00:00:00.000001306,1,"Oliva y Ocana, Dona. Fermina",female,39.0,0,0,PC 17758,108.9,C105,C,1306,Thursday
+1970-01-01 00:00:00.000001307,3,"Saether, Mr. Simon Sivertsen",male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,,1307,Thursday
+1970-01-01 00:00:00.000001308,3,"Ware, Mr. Frederick",male,,0,0,359309,8.05,,,1308,Thursday
+1970-01-01 00:00:00.000001309,3,"Peter, Master. Michael J",male,,1,1,2668,22.3583,,C,1309,Thursday
